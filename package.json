@@ -1,0 +1,22 @@
+{
+  "name": "@gegyhamdani/is-int",
+  "version": "1.0.0",
+  "description": "Check a value if its a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegyhamdani/is-int-npm-package.git"
+  },
+  "keywords": [
+    "int"
+  ],
+  "author": "Gegy Hamdani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gegyhamdani/is-int-npm-package/issues"
+  },
+  "homepage": "https://github.com/gegyhamdani/is-int-npm-package#readme"
+}
