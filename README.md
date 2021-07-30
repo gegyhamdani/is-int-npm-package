@@ -2,7 +2,7 @@
 
 ## How To Use
 ```
-const isInt = require('is-int');
+import isInt from '@gegyhamdani/is-int';
 
 isInt(10); //true
 isInt(999); //true
